@@ -1,4 +1,4 @@
-# Project Proposal - [DogeHouse](https://github.com/benawad/dogehouse.git)
+# Project Proposal - Christian Davis - [DogeHouse](https://github.com/benawad/dogehouse.git)
 
 ![Drag Racing](DogeHouse.png)
 
